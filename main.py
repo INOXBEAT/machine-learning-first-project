@@ -45,3 +45,4 @@ model.fit(X_train, y_train)
 # Evaluar el modelo con el conjunto de prueba
 score = model.score(X_test, y_test)
 print(f"Puntuación del modelo en el conjunto de prueba: {score}")
+    
